@@ -1,7 +1,7 @@
 # Team6-Capstone
 Team-06 Containerized Intelligent Network Functions on Hosts
 
-Maters Capstone Project
+Masters Capstone Project
 Technology, Cybersecurity and Policy
 University of Colorado Boulder
 
